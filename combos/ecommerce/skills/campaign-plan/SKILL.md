@@ -1,7 +1,7 @@
 ---
 name: campaign-plan
 description: 策划大促(618/双11 等)节奏与机制——预售/定金/满减/券、预算分配、备货与客服,输出可执行的活动方案。备战大促时调用。
-version: 1.0
+version: 1.1
 updated: 2026-07-23
 ---
 
@@ -35,4 +35,5 @@ updated: 2026-07-23
 - 不设计虚假折扣(先涨后降)、不违规。
 
 ## 更新记录
+- v1.1 (2026-07-23):promo-mechanics 加达人/内容协同。
 - v1.0 (2026-07-23):初版,大促策划;含 references/promo-mechanics.md。

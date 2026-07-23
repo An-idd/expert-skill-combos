@@ -1,7 +1,7 @@
 ---
 name: review-outline
 description: 把多篇文献归纳成综述框架——主题脉络、共识与分歧、研究缺口,输出可直接扩写的提纲。写综述/开题时调用。
-version: 1.0
+version: 1.1
 updated: 2026-07-23
 ---
 
@@ -33,4 +33,5 @@ updated: 2026-07-23
 - 出提纲和框架,不代写可提交的综述正文。
 
 ## 更新记录
+- v1.1 (2026-07-23):review-types 引入 PRISMA 系统综述规范。
 - v1.0 (2026-07-23):初版,综述归纳;含 references/review-types.md。

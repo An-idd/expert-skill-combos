@@ -1,7 +1,7 @@
 ---
 name: listing-optimize
 description: 按平台优化商品标题、主图、详情页与搜索关键词,提升点击率与转化。上新或优化商品时调用。
-version: 1.0
+version: 1.1
 updated: 2026-07-23
 ---
 
@@ -36,4 +36,5 @@ updated: 2026-07-23
 - 一版只对一个平台,别跨平台复制。
 
 ## 更新记录
+- v1.1 (2026-07-23):platform-notes 补抖音全域(内容电商/四场域/达人素材)。
 - v1.0 (2026-07-23):初版,商品 listing 优化;含 references/platform-notes.md。
