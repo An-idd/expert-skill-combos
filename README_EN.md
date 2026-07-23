@@ -21,7 +21,7 @@
 | Job seeker | [job-seeker](combos/job-seeker) | 1 expert + 3 skills | ✅ WorkBuddy |
 | Student / researcher | [student-researcher](combos/student-researcher) | 1 expert + 4 skills | 🚧 |
 | E-commerce | [ecommerce](combos/ecommerce) | 1 expert + 4 skills | 🚧 |
-| Accountant | [accountant](combos/accountant) | 1 expert + 2–4 skills | 🚧 |
+| Accountant | [accountant](combos/accountant) | 1 expert + 4 skills | 🚧 |
 
 🚧 = scaffold in place, content ships after real-world testing.
 
