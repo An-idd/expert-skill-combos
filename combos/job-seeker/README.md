@@ -5,7 +5,7 @@
 ## 效果演示
 
 WorkBuddy 实测通过(2026-07-23):完整跑通 `jd-decode → resume-tailor → interview-prep` 三段链路——拆解岗位、定制简历(缺数字主动问、不编造,还揪出简历里年龄与入学时间线的矛盾)、生成面试题。
-> 分享链接待补。
+👉 [查看完整实测过程](https://codebuddy.work/agents/tasks/share/8B6wxPKxmI?platform=workbuddy)
 
 ## 包含内容
 
