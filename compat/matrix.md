@@ -7,7 +7,7 @@
 | media-operator | topic-research | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
 | media-operator | content-decode | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
 | media-operator | script-writer | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
-| media-operator | compliance-check | ➖ | ➖ | ➖ | v1.1 新增,待实测 | — |
+| media-operator | compliance-check | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
 | job-seeker | jd-decode | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
 | job-seeker | resume-tailor | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
 | job-seeker | interview-prep | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
