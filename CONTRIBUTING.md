@@ -14,6 +14,7 @@
 - **EXPERT.md frontmatter 必填**：`name` `role` `version` `targets` `pairs_with` `updated`。
   `pairs_with` 让"组合关系"机器可读，是未来元技能/网站自动推荐的数据基础。
 - **「工作流程」一节必须显式写明**：专家在什么步骤调用什么 skill。这是"组合包"区别于"prompt 大全"的核心。
+- **每个 `SKILL.md` 带 `version` + `updated` frontmatter 和 `## 更新记录` 段**：每次改动追加一条（`vX.Y (日期)：改了什么`）。skill 随 references 一起分发，版本历史也跟着走。
 - CI 会校验每个含 `EXPERT.md` 的组合包结构完整、frontmatter 合法。未含 `EXPERT.md` 的目录视为建设中（WIP），跳过。
 
 ## 署名与第三方 skill 收录规则

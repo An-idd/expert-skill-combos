@@ -1,6 +1,8 @@
 ---
 name: jd-decode
 description: 拆解招聘 JD,分出必须项、加分项、隐藏评估点与 ATS 关键词,让求职者看清岗位真正要什么。改简历、准备面试前调用。
+version: 1.0
+updated: 2026-07-23
 ---
 
 # 目的
@@ -34,3 +36,6 @@ description: 拆解招聘 JD,分出必须项、加分项、隐藏评估点与 AT
 # 边界
 - 只拆 JD,不改简历(那是 resume-tailor 的活)。
 - 不臆测 JD 没写的要求;拿不准的标"存疑"。
+
+## 更新记录
+- v1.0 (2026-07-23):初版,JD 拆解;含 references/jd-signals.md。
