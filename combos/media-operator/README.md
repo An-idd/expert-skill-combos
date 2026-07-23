@@ -4,7 +4,8 @@
 
 ## 效果演示
 
-> 待补:1-2 张 WorkBuddy 实测截图 / 15 秒 GIF(真实运行结果),放 `assets/` 下引用。
+WorkBuddy 实测导入记录(4m3s 全部安装完成,3 个技能被识别为专家"擅长领域"):
+👉 [查看完整安装过程](https://codebuddy.work/agents/tasks/share/Im134PvYPd?platform=workbuddy)
 
 ## 包含内容
 
