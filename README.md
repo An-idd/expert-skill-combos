@@ -2,6 +2,8 @@
 
 > 别再零散装技能了。一个岗位，一套打包：**专家角色怎么想 + 技能怎么干**。
 > 每个组合包都在 WorkBuddy / QoderWork / Claude 实测通过。
+>
+> 🚧 持续更新中,每周新增组合包。
 
 <!-- 替换 <owner>/<repo> 后启用 star 徽章 -->
 [![Stars](https://img.shields.io/github/stars/%3Cowner%3E/%3Crepo%3E?style=social)](https://github.com/%3Cowner%3E/%3Crepo%3E)

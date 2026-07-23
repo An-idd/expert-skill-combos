@@ -2,6 +2,8 @@
 
 > Stop installing skills one by one. One role, one bundle: **how the expert thinks + what the skills do**.
 > Every combo is tested on WorkBuddy / QoderWork / Claude.
+>
+> 🚧 Actively updated — new combos weekly.
 
 [中文](README.md)
 
