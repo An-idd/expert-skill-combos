@@ -25,7 +25,7 @@
 | 岗位 | 组合包 | 包含 | 兼容 | 视频演示 |
 |---|---|---|---|---|
 | 新媒体运营 | [media-operator](combos/media-operator) | 1 专家 + 4 技能 | ✅ WorkBuddy | — |
-| 求职·简历面试 | [job-seeker](combos/job-seeker) | 1 专家 + 3 技能 | 🚧 | — |
+| 求职·简历面试 | [job-seeker](combos/job-seeker) | 1 专家 + 3 技能 | ✅ WorkBuddy | — |
 | 学生/科研 | [student-researcher](combos/student-researcher) | 1 专家 + 2~4 技能 | 🚧 | — |
 | 电商运营 | [ecommerce](combos/ecommerce) | 1 专家 + 2~4 技能 | 🚧 | — |
 | 财务 | [accountant](combos/accountant) | 1 专家 + 2~4 技能 | 🚧 | — |
