@@ -7,5 +7,6 @@
 | media-operator | topic-research | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
 | media-operator | content-decode | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
 | media-operator | script-writer | ✅ | ➖ | ➖ | WorkBuddy 实测通过 | 07-23 |
+| media-operator | compliance-check | ➖ | ➖ | ➖ | v1.1 新增,待实测 | — |
 
 > 每月全量回归实测一次（工具版本更新快，失效 = 信用损失）。失效请提 issue。
