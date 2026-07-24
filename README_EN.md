@@ -22,6 +22,8 @@
 | Student / researcher | [student-researcher](combos/student-researcher) | 1 expert + 4 skills | 🚧 |
 | E-commerce | [ecommerce](combos/ecommerce) | 1 expert + 6 skills | 🚧 |
 | Accountant | [accountant](combos/accountant) | 1 expert + 4 skills | 🚧 |
+| Official writing | [official-writing](combos/official-writing) | 1 expert + 3 skills | 🚧 |
+| Teacher | [teacher](combos/teacher) | 1 expert + 3 skills | 🚧 |
 
 🚧 = scaffold in place, content ships after real-world testing.
 
