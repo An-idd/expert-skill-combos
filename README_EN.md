@@ -1,7 +1,7 @@
 # 🧩 Expert × Skill Combos
 
 > Stop installing skills one by one. One role, one bundle: **how the expert thinks + what the skills do**.
-> Every combo is tested on WorkBuddy / QoderWork / Claude.
+> Every released combo is tested on WorkBuddy / QoderWork / Claude (🚧 = pending).
 >
 > 🚧 Actively updated — new combos weekly.
 
@@ -27,7 +27,7 @@
 | Office assistant | [office-assistant](combos/office-assistant) | 1 expert + 3 skills | 🚧 |
 | Sales | [sales](combos/sales) | 1 expert + 3 skills | 🚧 |
 
-🚧 = scaffold in place, content ships after real-world testing.
+🚧 = content in place, pending real-world testing.
 
 ## Install
 
