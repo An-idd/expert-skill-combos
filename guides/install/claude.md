@@ -2,11 +2,11 @@
 
 ## 方式一：安装咒语（推荐）
 
-复制给你的 Claude（Claude Code / 桌面端 Skill）（`<owner>/<repo>`、`<combo>` 换成实际值）：
+复制给你的 Claude（Claude Code / 桌面端 Skill）（`An-idd/expert-skill-combos`、`<combo>` 换成实际值）：
 
 ```
 请帮我安装一个技能组合包：
-1. 从 https://raw.githubusercontent.com/<owner>/<repo>/main/combos/<combo>/
+1. 从 https://raw.githubusercontent.com/An-idd/expert-skill-combos/main/combos/<combo>/
    下载 EXPERT.md 和 skills/ 目录下的所有技能
 2. 将每个 skill 放到我的 Claude skills 目录并启用
 3. 将 EXPERT.md 的内容保存为我的自定义角色 / CLAUDE.md 片段备用

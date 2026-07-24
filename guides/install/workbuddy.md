@@ -2,11 +2,11 @@
 
 ## 方式一：安装咒语（推荐）
 
-把下面这段复制给你的 WorkBuddy Agent（`<owner>/<repo>`、`<combo>` 换成实际值）：
+把下面这段复制给你的 WorkBuddy Agent（`An-idd/expert-skill-combos`、`<combo>` 换成实际值）：
 
 ```
 请帮我安装一个技能组合包：
-1. 从 https://raw.githubusercontent.com/<owner>/<repo>/main/combos/<combo>/
+1. 从 https://raw.githubusercontent.com/An-idd/expert-skill-combos/main/combos/<combo>/
    下载 EXPERT.md 和 skills/ 目录下的所有技能
 2. 将技能安装到我的 WorkBuddy 技能目录并在配置中启用
 3. 将 EXPERT.md 的内容保存为我的自定义角色备用

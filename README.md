@@ -5,8 +5,7 @@
 >
 > 🚧 持续更新中,每周新增组合包。
 
-<!-- 替换 <owner>/<repo> 后启用 star 徽章 -->
-[![Stars](https://img.shields.io/github/stars/%3Cowner%3E/%3Crepo%3E?style=social)](https://github.com/%3Cowner%3E/%3Crepo%3E)
+[![Stars](https://img.shields.io/github/stars/An-idd/expert-skill-combos?style=social)](https://github.com/An-idd/expert-skill-combos)
 
 [快速开始](#怎么安装三选一) · [按岗位找组合包](#组合包目录) · [兼容矩阵](compat/matrix.md) · [English](README_EN.md)
 
