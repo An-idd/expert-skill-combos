@@ -31,6 +31,8 @@
 | 财务 | [accountant](combos/accountant) | 1 专家 + 4 技能 | 🚧 | — |
 | 公文写作 | [official-writing](combos/official-writing) | 1 专家 + 3 技能 | 🚧 | — |
 | 教师教学 | [teacher](combos/teacher) | 1 专家 + 3 技能 | 🚧 | — |
+| 职场办公 | [office-assistant](combos/office-assistant) | 1 专家 + 3 技能 | 🚧 | — |
+| 销售/BD | [sales](combos/sales) | 1 专家 + 3 技能 | 🚧 | — |
 
 图例：✅ 已实测发布 · 🚧 建设中（结构已就位，内容实测后上线）
 
